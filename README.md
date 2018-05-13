@@ -1,7 +1,10 @@
 # Kotlin
 
 Welcome to this page ,this page is about Learing Kotlin for Beginners
-![kotlin](https://github.com/mohancm/Learn-Kotlin/raw/master/kotlin.png)
+
+<p align="center"> 
+<img src="https://github.com/mohancm/Learn-Kotlin/raw/master/kotlin.png">
+</p>
 
 
 ## About Kotlin
@@ -16,8 +19,9 @@ Statically typed programming language for modern multiplatform applications.
 * Tool-friendly - Choose any Java IDE or build from the command line.
 
 ## Announcement :
-=> Google Made Kotlin as Official Language for Android App Developers
-=> Kotlin 1.2 available now
+* Google Made Kotlin as Official Language for Android App Developers
+* Kotlin 1.2 available now
 
-
-<img src="https://github.com/mohancm/Learn-Kotlin/raw/master/kotlin_End.png" alt="Kotlin" class="center">
+<p align="center"> 
+<img src="https://github.com/mohancm/Learn-Kotlin/raw/master/kotlin_End.png">
+</p>
